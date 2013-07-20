@@ -1,0 +1,42 @@
+﻿Build started 8/21/2011 6:56:22 PM.
+     1>Project "C:\Users\Narine\Documents\HW\CSIT\CSIT861\testSDI\testSDI\testSDI.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\testSDI.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Narine\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       CoreResGen:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Narine\Documents\HW\CSIT\CSIT861\testSDI\Debug\testSDI.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\testSDI.summaryDlg.resources /MANIFEST /ManifestFile:"Debug\testSDI.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Narine\Documents\HW\CSIT\CSIT861\testSDI\Debug\testSDI.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\testSDI.res
+         Debug\ClassView.obj
+         Debug\CresultDlg.obj
+         Debug\FileView.obj
+         Debug\MainFrm.obj
+         Debug\OutputWnd.obj
+         Debug\PropertiesWnd.obj
+         Debug\rulesDlg.obj
+         Debug\stdafx.obj
+         Debug\summaryDlg.obj
+         Debug\testSDI.obj
+         Debug\testSDIDoc.obj
+         Debug\testSDIView.obj
+         Debug\ViewTree.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+     1>FileView.obj : warning LNK4248: unresolved typeref token (01000018) for '_TREEITEM'; image may not run
+     1>ClassView.obj : warning LNK4248: unresolved typeref token (01000018) for '_TREEITEM'; image may not run
+         testSDI.vcxproj -> C:\Users\Narine\Documents\HW\CSIT\CSIT861\testSDI\Debug\testSDI.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Narine\Documents\HW\CSIT\CSIT861\testSDI\Debug\testSDI.exe;#1" /manifest Debug\testSDI.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\testSDI.unsuccessfulbuild".
+         Touching "Debug\testSDI.lastbuildstate".
+     1>Done Building Project "C:\Users\Narine\Documents\HW\CSIT\CSIT861\testSDI\testSDI\testSDI.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:14.33
